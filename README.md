@@ -12,10 +12,7 @@ Este proyecto implementa Tkinter. Está diseñado como un proyecto más complejo
 - Diseño visual de la aplicación utilizando widgets estándar como botones, etiquetas, entradas de texto, etc.
 - Funcionalidades básicas de interacción con el usuario.
 - Ejemplos de manejo de eventos y acciones del usuario.
-
-## Autora
-Este proyecto fue desarrollado por VictoriaVMC
-
+  
 # Autora
   
   - Victoria VMC
